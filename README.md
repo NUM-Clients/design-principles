@@ -21,7 +21,7 @@ The technology we build should be something that:
 
 Our model is the opposite of a third party plugin model, which is usually considered a liability in the sense that it's both a cost and a business critical dependency controlled by a third party.
 
-## Transferrability
+## Transferability
 We're committed to supporting the technology we build but it's important you have control over it in case of unforeseen circumstances or if you need someone else to take over the management of it at some point in the future. The following sections are a summary of how our technology is usually designed and the providers we use, to ensure the technology is future proof and transferrable. This content is best suited to technical eyes but something we can happily talk clients through.
 
 Our first step in taking on a client is usually to register a domain name on their behalf. This enables us to setup an independent email address (not one we control), and means we don't have to nag you endlessly for verification links, auth codes etc. All accounts with providers are setup in your name / company name using the new email address – we provide you with access to this email address once the work is complete. All credentials are stored in a password manager vault that you have access to once the work is complete.
@@ -79,7 +79,7 @@ You can use the Contact Manager to update your website content – e.g. products
 
 We provide you with the Contact Manager to make CMS and CRM easy and user-friendly,  but if the Contact Manager was down or ceased to exist, the content of your website can be edited using the flat data files and the work of the assistant can be viewed via logs. It would be relatively simple for someone to build an independent interface to manage/view this data (in case Contact Manager was unavailable) and if it was important to you from the start, we could even do this as a mini project at relatively low cost.
 
-# More Avanced Work
+# More Advanced Work
 For more advanced work, it's likely that it will require closer integration with our Contact Manager tool (for example an assistant to book/manage appointments), where the Contact Manager will be become an integral part of the process and inevitably certain functionality will be reliant on the Contact Manager. However, this dependence will always be made clear and in cases where the work we're doing could be for the benefit of other Contact Manager users (e.g. appointment management), this will also be factored into the price.
 
 # Documentation
