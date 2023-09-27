@@ -32,9 +32,13 @@ The domain name is registered via Cloudflare Registrar, DNS is with Cloudflare a
 The ongoing cost of this, is **£10-15 per year**, the first year is included in the setup cost.
 
 ### Code Repository: Github
-All code is available in an independent organisation on Github, this means that anyone that you bring into help in the future can access the code and make changes. There is a private repository for each project we take on for you, each with three environments represented by branches in each project repository – development, staging and production.
+All code is available in an independent organisation on Github (a company owned by Microsoft), this means that anyone that you bring into help in the future can access the code and make changes. There is a private repository for each project we take on for you, each with three environments represented by branches in each project repository:
 
-Github (owned by Microsoft) make **no charge for this level of usage**.
+- development (for us to develop features)
+- staging (for you to preview changes before going live, and for us to test features against real data)
+- production (what your customers see)
+
+Github make **no charge for this level of usage**.
 
 ### Hosting: Heroku
 Each repository branch is automatically deployed to Heroku (a company owned by Salesforce).
